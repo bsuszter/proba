@@ -4,7 +4,7 @@ Próba
 ## Első sor
 Első sor
 
-Ide jön a kód
+Ide jön a kódod
 ```blocks
 basic.showNumber(3)
 basic.forever(function () {
