@@ -10,7 +10,8 @@
         "main.blocks",
         "main.ts",
         "README.md",
-        "proba.md"
+        "proba.md",
+        "_locales/hu/proba.md"
     ],
     "testFiles": [
         "test.ts"
