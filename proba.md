@@ -4,7 +4,7 @@ Próba
 ## Első sor
 Első sor
 
-Drag the code
+Ide jön a kód
 ```blocks
 basic.showNumber(3)
 basic.forever(function () {
@@ -13,7 +13,7 @@ basic.forever(function () {
 Ez az
 ```
 
-##Második sor
+## Második sor
 Második sor
 
 ```blocks
