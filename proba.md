@@ -3,10 +3,7 @@ Felvillanó led
 
 ## Első feladat
 Összesen 25 led villantható fel. A koordináták a sorok és oszlopok számpárjával adhatók meg.
-```blocks
-![Agent building a tower](/static/tutorials/agent-tower.png)
-![alt text](http://ilias.bokay.hu/data/bokay/mobs/mm_10429/2021-04-09_20_57_27-Bemutato2_-_PowerPoint.png?il_wac_token=57d0d23a6cbc955e3c88e525bb4ffb9bb4c728f7&il_wac_ttl=3&il_wac_ts=1627633892)
-```
+![mc01](https://user-images.githubusercontent.com/40439488/127630823-d15a95d4-222e-4435-83ed-e26d66101e9d.png)
 
 Ide jön a kódod
 ```blocks
