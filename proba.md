@@ -17,10 +17,24 @@ input.onButtonPressed(Button.A, function () {
 ## Második feladat
 Készítsd el az X és y változókat!
 ```blocks
+let x = 0
+let y = 0
 input.onButtonPressed(Button.A, function () {
+    x = 0
+    y = 0
     led.plot(0, 0)
 })
 ```
 
 ## Harmadik feladat
 Állítsd be az x és y változók értékét 0-ra, és módosítsd a felkapcsol blokkot: konkrét számok helyett a két változó kerüljön ide!
+```blocks
+let x = 0
+let y = 0
+input.onButtonPressed(Button.A, function () {
+    x = 0
+    y = 0
+    led.plot(x, y)
+})
+
+```
