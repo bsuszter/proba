@@ -38,5 +38,4 @@ input.onButtonPressed(Button.A, function () {
 ```
 
 ## Negyedik feladat
-Először az első sor 5 ledjét fogjuk egy ciklus segítségével felkapcsolni: 
-![mc02](https://user-images.githubusercontent.com/40439488/127650720-4a190641-667a-466c-ba75-d4f3a6b599b1.png)
+Először az első sor 5 ledjét fogjuk egy ciklus segítségével felkapcsolni:  ![mc02](https://user-images.githubusercontent.com/40439488/127650720-4a190641-667a-466c-ba75-d4f3a6b599b1.png)
