@@ -25,7 +25,7 @@ input.onButtonPressed(Button.A, function () {
 ```
 
 ## Harmadik feladat
-Állítsd be az x és y változók értékét 0-ra, és módosítsd a felkapcsol blokkot: konkrét számok helyett a két változó kerüljön ide!
+Állítsd be az x és y változók értékét 0-ra (ha jelenleg nem annyi), és módosítsd a felkapcsol blokkot: konkrét számok helyett a két változó kerüljön ide!
 ```blocks
 let x = 0
 let y = 0
@@ -34,5 +34,8 @@ input.onButtonPressed(Button.A, function () {
     y = 0
     led.plot(x, y)
 })
-
 ```
+
+## Negyedik feladat
+Először az első sor 5 ledjét fogjuk egy ciklus segítségével felkapcsolni: 
+![mc02](https://user-images.githubusercontent.com/40439488/127650720-4a190641-667a-466c-ba75-d4f3a6b599b1.png)
